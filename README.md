@@ -41,6 +41,7 @@ A local restriction shuts down a dense delivery area during working hours. Partn
 
 
 ## 4 Workflow Diagram
+<img width="1420" height="742" alt="Screenshot 2026-03-19 192626" src="https://github.com/user-attachments/assets/404e6698-db8f-435a-b966-b9e395257e32" />
 
 
 
@@ -127,6 +128,8 @@ directly linked to earning disruption
 Model 1 — Premium Calculator (XGBoost)
 
 Model 2 — Fraud Detection Engine (Isolation Forest)
+<img width="628" height="411" alt="image" src="https://github.com/user-attachments/assets/21ee0650-6c92-4121-8ef6-02e057c00fac" />
+
 
  Model 3 — Risk Forecaster (Prophet by Meta)
 
