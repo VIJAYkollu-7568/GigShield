@@ -1,8 +1,11 @@
+<img width="1536" height="1024" alt="ChatGPT Image Mar 20, 2026, 10_22_23 AM" src="https://github.com/user-attachments/assets/2d1d0dc2-619b-4d43-83b1-fdb18d8789b7" />
+
 # GigShield
 
 **GigShield** is an **AI-enabled parametric income protection platform** for **food-delivery gig workers** who lose earnings because of **verified external disruptions** such as **heavy rainfall, flooding, curfews, zone shutdowns, traffic restrictions, and platform outages**.
 
 It is designed as a **low-friction, weekly protection model** that combines **dynamic premium pricing, trigger-based claims, automated validation, fraud checks, and payout workflows**.
+
 
 ## 1. Core Requirement
 
@@ -16,6 +19,7 @@ GigShield is designed to solve **disruption-led income loss** for food-delivery 
 - Include **eligibility validation and fraud checks**
 - Be scalable for future insurer and platform integration
 
+
 ## 2. Target Persona
 
 ### Primary Persona: Ravi
@@ -26,6 +30,7 @@ GigShield is designed to solve **disruption-led income loss** for food-delivery 
 - **Income Type:** Variable weekly earnings  
 - **Pain Point:** Income stops when weather, outages, or local restrictions affect his zone  
 - **Need:** Fast, simple protection without paperwork-heavy claims  
+
 
 
 ## 3. Persona-Based Scenarios
@@ -57,6 +62,7 @@ GigShield follows a simple trigger-based workflow:
     6. When a verified trigger occurs, the system identifies impacted workers  
     7. Eligibility validation and fraud checks are applied  
     8. If valid, payout is approved and processed 
+
 
 
 ## 6. Weekly Premium Model
@@ -91,6 +97,7 @@ Example
 
 Weekly Premium = ₹72
 
+
 ## 7. Parametric Triggers
 
 GigShield uses parametric triggers, meaning claims are activated by verified external events instead of reimbursement-based manual proofs.
@@ -123,6 +130,7 @@ measurable
 
 directly linked to earning disruption
 
+
 ## 8. AI/ML Integration Plan
 
 Model 1 — Premium Calculator (XGBoost)
@@ -136,6 +144,8 @@ Model 2 — Fraud Detection Engine (Isolation Forest)
  Model 4 — Income Baseline (EWMA Rolling Average)
 
  ### AIML Workflow Diagram
+
+
 
  ## 9. Tech Stack
 
