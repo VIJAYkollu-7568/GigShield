@@ -1,4 +1,4 @@
-<img width="64" height="64" alt="ChatGPT Image Mar 20, 2026, 10_22_23 AM" src="https://github.com/user-attachments/assets/2d1d0dc2-619b-4d43-83b1-fdb18d8789b7" />
+<img width="256" height="256" alt="ChatGPT Image Mar 20, 2026, 10_22_23 AM" src="https://github.com/user-attachments/assets/2d1d0dc2-619b-4d43-83b1-fdb18d8789b7" />
 
 # GigShield
 
